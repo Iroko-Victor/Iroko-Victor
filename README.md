@@ -14,17 +14,17 @@ Currently, I'm diving deep into the world of data science and machine learning, 
 
 ## 📬 Let's Connect
 
-🌐 GitHub: [[github.com/yourusername](https://github.com/yourusername)](https://github.com/Iroko-Victor)
+🌐 [GitHub](https://github.com/Iroko-Victor)
 
 📧 Email: irokovictor7@gmail.com
 
-📸 Instagram: [[instagram.com/your_instagram](https://www.instagram.com/your_instagram)](https://www.instagram.com/irokovictor/)
+📸 [Instagram](https://www.instagram.com/irokovictor/)
 
-💼 LinkedIn: ([https://www.linkedin.com/in/your_linkedin](https://www.linkedin.com/in/victor-iroko-77458022b/))
+💼 [LinkedIn](https://www.linkedin.com/in/victor-iroko-77458022b/)
 
-📘 Facebook: [[facebook.com/your_facebook](https://www.facebook.com/your_facebook)](https://web.facebook.com/victor.iroko.12)
+📘 [Facebook](https://web.facebook.com/victor.iroko.12)
 
-🐦 Twitter: [https://twitter.com/IrokoVictor5](https://twitter.com/IrokoVictor5)
+🐦 [Twitter](https://twitter.com/IrokoVictor5)
 
 
 Let's collaborate, innovate, and build the future together! Feel free to reach out, whether you have ideas to share, projects to collaborate on, or just want to geek out about data and algorithms.
